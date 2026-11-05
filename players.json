@@ -19,7 +19,8 @@
       "city": "Los Angeles"
     }
   },
-  { "age": 36,
+  {
+    "age": 36,
     "name": "Lionel Messi",
     "sport": "Soccer",
     "posistion": "Foward",
@@ -28,7 +29,8 @@
       "city": "Miami"
     }
   },
-  { "age": 41,
+  {
+    "age": 41,
     "name": "Serena Williams",
     "sport": "Tennis",
     "posistion": "Player",
@@ -37,5 +39,4 @@
       "city": "N/A"
     }
   }
-  
 ]
