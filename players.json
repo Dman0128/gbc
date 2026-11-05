@@ -1,1 +1,41 @@
-
+[
+  {
+    "age": 34,
+    "name": "Tom Brady",
+    "sport": "Football",
+    "posistion": "Quarterback",
+    "team": {
+      "name": "Buccaneers",
+      "city": "Tampa Bay"
+    }
+  },
+  {
+    "age": 38,
+    "name": "Lebron James",
+    "sport": "Basketball",
+    "posistion": "Foward",
+    "team": {
+      "name": "Lakers",
+      "city": "Los Angeles"
+    }
+  },
+  { "age": 36,
+    "name": "Lionel Messi",
+    "sport": "Soccer",
+    "posistion": "Foward",
+    "team": {
+      "name": "Inter Miami",
+      "city": "Miami"
+    }
+  },
+  { "age": 41,
+    "name": "Serena Williams",
+    "sport": "Tennis",
+    "posistion": "Player",
+    "team": {
+      "name": "N/A",
+      "city": "N/A"
+    }
+  }
+  
+]
